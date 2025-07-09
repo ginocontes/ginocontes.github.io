@@ -4,10 +4,111 @@
         <title>Gino Contestabile Blog</title>
         <link>https://ginocontes.github.io/blog</link>
         <description>Gino Contestabile Blog</description>
-        <lastBuildDate>Sun, 10 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[B+ Trees]]></title>
+            <link>https://ginocontes.github.io/blog/bplus-trees</link>
+            <guid>https://ginocontes.github.io/blog/bplus-trees</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+        </item>
+        <item>
+            <title><![CDATA[Adversarial Search]]></title>
+            <link>https://ginocontes.github.io/blog/adversarial-search</link>
+            <guid>https://ginocontes.github.io/blog/adversarial-search</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+            <category>AI</category>
+        </item>
+        <item>
+            <title><![CDATA[Bayes Nets]]></title>
+            <link>https://ginocontes.github.io/blog/bayes</link>
+            <guid>https://ginocontes.github.io/blog/bayes</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+            <category>AI</category>
+        </item>
+        <item>
+            <title><![CDATA[Concurrency Control]]></title>
+            <link>https://ginocontes.github.io/blog/concurrency-control</link>
+            <guid>https://ginocontes.github.io/blog/concurrency-control</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+        </item>
+        <item>
+            <title><![CDATA[Database Logging]]></title>
+            <link>https://ginocontes.github.io/blog/database-logging</link>
+            <guid>https://ginocontes.github.io/blog/database-logging</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+        </item>
+        <item>
+            <title><![CDATA[Decision Trees]]></title>
+            <link>https://ginocontes.github.io/blog/decision-trees</link>
+            <guid>https://ginocontes.github.io/blog/decision-trees</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+            <category>AI</category>
+        </item>
+        <item>
+            <title><![CDATA[Hash Tables]]></title>
+            <link>https://ginocontes.github.io/blog/hash-tables</link>
+            <guid>https://ginocontes.github.io/blog/hash-tables</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+            <category>AI</category>
+        </item>
+        <item>
+            <title><![CDATA[Join Algorithms]]></title>
+            <link>https://ginocontes.github.io/blog/join-algorithms</link>
+            <guid>https://ginocontes.github.io/blog/join-algorithms</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+            <category>AI</category>
+        </item>
+        <item>
+            <title><![CDATA[Modern Data Formats]]></title>
+            <link>https://ginocontes.github.io/blog/modern-data-storage</link>
+            <guid>https://ginocontes.github.io/blog/modern-data-storage</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+        </item>
+        <item>
+            <title><![CDATA[Modern SQL]]></title>
+            <link>https://ginocontes.github.io/blog/modern-sql</link>
+            <guid>https://ginocontes.github.io/blog/modern-sql</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+            <category>AI</category>
+        </item>
+        <item>
+            <title><![CDATA[Query Executors]]></title>
+            <link>https://ginocontes.github.io/blog/query-executors</link>
+            <guid>https://ginocontes.github.io/blog/query-executors</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+        </item>
+        <item>
+            <title><![CDATA[Query Planners]]></title>
+            <link>https://ginocontes.github.io/blog/query-planners</link>
+            <guid>https://ginocontes.github.io/blog/query-planners</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <category>Software</category>
+        </item>
+        <item>
+            <title><![CDATA[AI Cloud Runtimes E2B]]></title>
+            <link>https://ginocontes.github.io/blog/cloud-runtimes</link>
+            <guid>https://ginocontes.github.io/blog/cloud-runtimes</guid>
+            <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Productionising AI Workloads, as any serious software development effort, goes hand in hand]]></description>
+            <content:encoded><![CDATA[<p>Productionising AI Workloads, as any serious software development effort, goes hand in hand
+with</p>]]></content:encoded>
+            <category>Software</category>
+            <category>AI</category>
+        </item>
         <item>
             <title><![CDATA[Buffer Pool Manager]]></title>
             <link>https://ginocontes.github.io/blog/buffer-pool-manager</link>
@@ -53,29 +154,24 @@
             <link>https://ginocontes.github.io/blog/georgia-tech-curriculum</link>
             <guid>https://ginocontes.github.io/blog/georgia-tech-curriculum</guid>
             <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <description><![CDATA[The Value Of Academia]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-value-of-academia">The Value Of Academia<a href="https://ginocontes.github.io/blog/georgia-tech-curriculum#the-value-of-academia" class="hash-link" aria-label="Direct link to The Value Of Academia" title="Direct link to The Value Of Academia">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="georgia-tech">Georgia Tech<a href="https://ginocontes.github.io/blog/georgia-tech-curriculum#georgia-tech" class="hash-link" aria-label="Direct link to Georgia Tech" title="Direct link to Georgia Tech">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="specialization-and-courses">Specialization And Courses<a href="https://ginocontes.github.io/blog/georgia-tech-curriculum#specialization-and-courses" class="hash-link" aria-label="Direct link to Specialization And Courses" title="Direct link to Specialization And Courses">​</a></h2>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://ginocontes.github.io/blog/welcome</link>
             <guid>https://ginocontes.github.io/blog/welcome</guid>
             <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://ginocontes.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
+            <description><![CDATA[I used to think there were two types of subjects: "humanistic" and STEM.]]></description>
+            <content:encoded><![CDATA[<p>I used to think there were two types of subjects: "humanistic" and STEM.
+Humanistic subjects studied human endeavours such as history, law, literature, languages.
+These subject I thought were, in a sense, completely arbitatrary.</p>
+<p>Now that I grew up in the industry I see that every STEM subjects is and will always be about people.
+And people value clever technical ingenuity, as well as clear cut communication. Aestethics and communication
+are an integral part of every technological endeavour.</p>
+<p>Explanations both clarify</p>]]></content:encoded>
             <category>Hello</category>
         </item>
     </channel>
